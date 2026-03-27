@@ -45,8 +45,8 @@ TABULATION:
 FULLWAVE RECTFIER:
 ![img](hw-2.png)
 OUTPUT:
-![img](hw-4.png)
-![img](hw-5.png)
+![img](hw-4.jpeg)
+![img](hw-5.jpeg)
 
 
 
