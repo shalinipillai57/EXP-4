@@ -39,7 +39,7 @@ HALFWAVE RECTIFIER:
 WITH FILTER:
 ![img](hw-1.png)
 WITHOUT FILTER:
-![img)(hw-6.png)
+![img](hw-6.png)
 TABULATION:
 ![img](hw-3.png)
 FULLWAVE RECTFIER:
